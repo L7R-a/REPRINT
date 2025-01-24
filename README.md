@@ -1,70 +1,45 @@
-# Getting Started with Create React App
+# Network Analysis 🔵
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This web platform was designed to provide a visual representation of the relationships of individuals in the 17th century for historians
 
-## Available Scripts
+# Features 🌟
 
-In the project directory, you can run:
+- Graph: Nodes being individuals or entities and the edges representing a letter or other source that links them
+- Query Tool: A useful tool that permits specific queries to search relationships and individuals
+- Gallery: Another way to quickly find individuals or entities available 
+- Sidecars: Profile cards containing more details about a selected individual in the network graph, query tool, or gallery
+  
+# Demo 🎥
 
-### `npm start`
+Check out a video walkthrough of the app: https://www.youtube.com/watch?v=YtRzIC60dlU&ab_channel=DiegoLaRosa
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+# Technologies Used 🛠️
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- Frontend: JavaScript, React.js, PrimeReact, CSS
 
-### `npm test`
+- Backend: Node.js, Express.js
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- Database: MySQL
 
-### `npm run build`
+- Cloud Services: AWS
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+- Design: Figma
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+# Getting Started 🚀
+Accessing the Platform
+Follow this link to access the website: https://chdr.cs.ucf.edu/REPRINT/
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Please note that the website is currently under active development by another team and may not reflect the exact state of my contributions.
 
-### `npm run eject`
+# Usage 🟢
+- User the graph search bar and filters to populate the graph
+- Select any nodes of interest
+- Visualize the sidecars that are being populated on the left column
+- Use the query tool queries to access a table or graph with results
+- Go to the Gallery page if the main purpose is to find individuals or documents
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+# Contact 📬
+For questions or feedback, feel free to reach out:
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- Email: diegolag2003@gmail.com
+- LinkedIn: www.linkedin.com/in/diego-la-rosa
